@@ -1,0 +1,15 @@
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/bin/Debug/net6.0/Task1.1
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/bin/Debug/net6.0/Task1.1.deps.json
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/bin/Debug/net6.0/Task1.1.runtimeconfig.json
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/bin/Debug/net6.0/Task1.1.dll
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/bin/Debug/net6.0/Task1.1.pdb
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/obj/Debug/net6.0/Task1.1.csproj.AssemblyReference.cache
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/obj/Debug/net6.0/Task1.1.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/obj/Debug/net6.0/Task1.1.AssemblyInfoInputs.cache
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/obj/Debug/net6.0/Task1.1.AssemblyInfo.cs
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/obj/Debug/net6.0/Task1.1.csproj.CoreCompileInputs.cache
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/obj/Debug/net6.0/Task1.1.dll
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/obj/Debug/net6.0/refint/Task1.1.dll
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/obj/Debug/net6.0/Task1.1.pdb
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/obj/Debug/net6.0/Task1.1.genruntimeconfig.cache
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar2/HomeWork2/Task1.1/obj/Debug/net6.0/ref/Task1.1.dll
